@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>titulo da aba</title>
+</head>
+<body>
+
+<h1>titulo do paragrafo</h1>
+
+<p>02 praragraph-pre</p>
+<p>quando usamos as tags de paragrafo ela ira ignorar espaços, linhas puladas e linhas um grande numero de linhas</p>
+<pre>
+1 linha    com espaço desnecessario
+2 linhas sem necessidade 
+3 com muita informação porem o browser ira regular o tamanho automaticamente, de acordo com o espaço disponivel
+</pre>
+</body>
+
+</html>

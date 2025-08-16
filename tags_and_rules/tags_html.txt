@@ -1,0 +1,45 @@
+as tags ficam entre <>
+
+primeiro informamos o tipo <!DOCTYPE>
+
+é uma tag com atributo de informar o idioma <html lang ="pt-br">
+
+<head> tudo que não vai aparecer no site
+
+<title> tag de titulo
+
+<body> apartir daqui vai aparecer
+
+<h1> titulo
+<h2>subtitulo
+pode ir até a tag <h6>
+
+tag <p> paragrafo
+
+tag <a> serve para referenciar um link para qual ela vai
+
+tag <img> tag para imagem dentro pode ter src="endereço" ou alt="endereço"
+
+tag de lista 
+
+ordenada possui sequencia numerica , alfabetica ou por algarismo romano
+abri lista <ol>
+
+ linha da lista <li>conteudo<li/>
+
+fecha lista <ol/>
+
+não ordenada possui apenas um ponto, traço ou marcação por simbulo 
+abri lista <ul>
+
+ linha da lista <li>conteudo<li/>
+
+fecha lista <ul/>
+
+lista por descrição possui hierarquia
+
+abri lista <ol>
+
+ linha da lista <li>conteudo<li/>
+
+fecha lista <ol/>

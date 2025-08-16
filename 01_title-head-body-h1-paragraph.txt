@@ -1,0 +1,14 @@
+<!DOCTYPE>
+
+<html>
+<head>
+	<title>Aba</title>
+</head>
+<body>
+<h1>Aprendendo HTML</h1>
+<p>HTML é uma linguagem de marcação, composta por tagstar e tagand:<br>- sinal de menor e sinal de maior  e a "/" para a chave que fecha </p>
+
+</body>
+</html>
+
+

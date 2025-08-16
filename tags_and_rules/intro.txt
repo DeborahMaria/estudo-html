@@ -1,0 +1,64 @@
+#resumindo aprendizado
+#abre e fecha tudo tagstart e tagend <></>
+#<!DOCTYPE> mostra que é html5
+#<html></html> segundo passo para dar inicio a uma pagina,o que estiver depois disso e antes do body não aparecera na extensão da pagina
+#<head></head> nesta area colocamos as configuarações de fonte, titulo da aba, etc 
+#<title></title> o que estiver entre estas chaves aparecera como "titulo"
+#<body></body> aqui demos inicio ao corpo do site e finalizamos tudo que aparecera na extensão da pagina
+#<h1></h1> até <h6></h6> são tamanhos de titulos para a extensão da pagina 
+#<p></p> paragrafos de texto ,blocos de texto 
+#<br> quando inserido o meio de uma linha, deixara um espaço entre duas palavra ou coisas
+#<href></href> referencia um link de outra pagina
+#<scr> para add um imagem
+#<alt> alternativa de imagem
+#<hr> regua
+#<br> quebra de linha
+#<pre> preserva a configuração do que esta sendo inserido 
+#para salvar e fazer funcionar usea "index.html" no titulo do documento
+#selecione tipo:"todos os arvivos"
+#as tags formam os blocos:
+#_____________________________________________________________________________________
+#|<html> ________________________________________________________________________     |
+#|      |<head>                                                                  |    |
+#|      |<head/>_________________________________________________________________|    |
+#|                                                                                    |
+#|                                                                                    |
+#|       ________________________________________________________________________     |
+#|      |<body> ____________________________________________________________     |    |
+#|      |      |<h1></h1>                                                   |    |    |
+#|      |      |<p></p>_____________________________________________________|    |    |
+#|      |<body/>_________________________________________________________________|    |
+#|                                                                                    |
+#|<html/>_____________________________________________________________________________|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
