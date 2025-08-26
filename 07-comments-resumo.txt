@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<!--raiz-->
+<html>
+<!--cabeça-->
+<head>
+        	<!--title-->
+    		<title>comments</title>
+	</head>	
+	<!--corpo-->
+	<body>
+		<!--titulo unico e principal-->
+		<h1>07-comments_o_que_aprendi</h1>
+		<!--paragraph-->
+		<p>Abaixo tera um resumo de tudo que foi aprendido até o presente momento</p>
+		<!--titulo secundario-->
+		<h2>Aprendizado:</2>
+		<!--resumos de aprendizado com sub-titulo e um paragrafo explicativo-->
+		<h3>Elementos</h3>
+		<p>Tudo o que se encontra entre duas tags</p>
+		<h3>Atributos</h3>
+		<p>Elementos possuem atributos: (links,img,video)</p>
+		<h3>Titulos<h3>
+		<p>Titulos ficam antes dos paragrafos, possuem hierarquia começando com h1 o primeiro titulo e com mais importancia </p>
+		<h3>Paragrafos</h3>
+		<p>Paragrafo ou bloco de texto</p>
+		<h3>Styles</h3>
+		<p style = color:blue;>cor da letra</p>
+		<p style = background-color:blue;>cor do fundo</p>
+		<p style = font-size:60px;>letra grande</p>
+		<p style = font-family:arial;>fonte diferente</p>
+		<h3>Formatação</h3>
+		<p><b>bold=negrito<b/></p>
+		<p><i>italic=italico</i></p>
+		<p><strong>STRONG=IMPORTANTE</strong></p>
+		<p><em>EMPHASED=ENFATICO</em></p>
+		<p><mark>marck=marca texto</mark></p>
+		<p><del>delete=traço no meio da letra</del></p>
+		<p><ins>inserido=sublinhar<ins></p>
+		<p><sub>subscript=letra abaixo</sub>letra normal</p>
+		<p><sup>superscript=letra acima</sup>letra normal</p>
+		<h3>Cotação</h3>
+		<h3><strong>Comentarios</strong></h3>
+		<p>Comentario serve para deixar a pigina mais organizada e intuitiva, facilita manutenções futuras e a leitura de terceiros</p>
+
+
+
+
+
+	</body>
+</html>

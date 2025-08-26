@@ -1,0 +1,16 @@
+<!DOCTYPE html> 
+
+<html>
+<head>
+	<title>styles</title>
+</head>
+
+<body>
+ <h1>03-styles_colors_font</h1>
+ <p>paragrafo normal</p>
+ <p style="color:red;"> paragrafo vermelho<p>
+ <p style="font-size:50px;">pragrafo com fonte grande</p>
+ <p style="font-size:20px;color:green">paragrafo medio e verde<p>
+</body>
+
+</html>

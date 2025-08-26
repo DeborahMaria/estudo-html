@@ -1,0 +1,16 @@
+<!DOCTYPE>
+
+<html>
+<head>
+  <title>CORES</title>
+</head>
+<body style="background-color:powderblue";>
+
+<h1 style=background-color:blue;color:green>04_colors_background_paragraph</h1>
+
+<p style= background-color:yellow;font-size:30px;color:green;>fundo amarelo,fonte media, letra verde</p>
+<p style =background-color:black;color:white;font-size:50px;font-family:arial>fundo preto, letra branca, tamanho grande, fonte arial<p/>
+
+
+</body>
+</html>

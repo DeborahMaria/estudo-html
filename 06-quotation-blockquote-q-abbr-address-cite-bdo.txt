@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>quotation</title>
+	</head>
+	<body>
+		<!--aprendento cotação-->
+		<h1>06-quotation-blockquote-q-abbr-address-cite-bdo</h1>
+		<p>aprendendo cotações</p>
+		<blockquote><p>Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna</p><blockquote>
+		<p>Essa é a maior demonstração de amor que ja li<q>deu o seu Filho unigênito</q>amor inimaginavel e inigualavel</p>
+		<p>O versiculo citado esta na versão <abbr title = "Almeida Revista e Corrigida">(ARC)</abbr></p>
+		<p>há uma bela igreja no centro da cidade</p>
+		<address>centro<br>são paulo<br>são paulo<address/>
+		<p><cite>the bible</cite></p>
+		<p>para inverter o texto(bdo)<p/>
+		<bdo dir="rtl">texto invertido</bdo>
+
+	</body>
+</html>

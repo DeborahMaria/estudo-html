@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+   <head><title>formatação</title>
+</head>
+<body>
+   <p>06-bold-strong-italic-em-mark-sup-sub-del-ins<p>
+   <p><b>bold=negrito</b><p/>
+   <p><i>italic=italico</i></p>
+   <p><strong>não é só negrito, é importante</strong></p>
+   <p><em>não é só intalico, tem enfase</em></p>
+   <p><sub>subescrito como numero de elemento na tabela periodica</sub></p>
+   <p><sup>superescrito ,como um numero elevado</sup></p>
+   <p><mark>marca texto</mark><p>
+   <p><del>palavra com linha no meio</del></p>
+   <p><ins>sublinhado</ins></p>
+</body>
+</html>
