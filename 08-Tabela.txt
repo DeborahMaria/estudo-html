@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>Tabela</title>
+
+</head>
+
+<body>
+
+	<table>
+
+		<thead>
+			<tr>
+				<th>Categoria</th>
+				<th>Item</th>
+				<th>Quantidade</th>
+				<th>Uni.medida</th>
+			</tr>
+		</thead>
+
+
+		<tbody>
+			<tr>
+				<td>HIGIENE</td>
+				<td>HIDRATANTE</td>
+				<td>200</td>
+				<td>ml</td>
+			</tr>
+
+			<tr>
+				<td>LIMPEZA</td>
+				<td>DETERGENTE</td>
+				<td>1</td>
+				<td>litros</td>
+			</tr>
+
+			<tr>
+				<td>HIGIENE</td>
+				<td>PASTA DE DENTE</td>
+				<td>4</td>
+				<td>Tubos</td>
+			</tr>
+
+			<tr>
+				<td>BEBIDA</td>
+				<td>REFRIGERANTE</td>
+				<td>3</td>
+				<td>litros</td>
+			</tr>
+
+			<tr>
+				<td>LIMPEZA</td>
+				<td>SABÃO EM PÓ</td>
+				<td>3</td>
+				<td>kg</td>
+			</tr>
+
+			<tr>
+				<td>BEBIDA</td>
+				<td>SUCO</td>
+				<td>2</td>
+				<td>litros</td>
+			</tr>
+		</tbody>
+
+
+	</table>
+
+</body>
+
+</html>
