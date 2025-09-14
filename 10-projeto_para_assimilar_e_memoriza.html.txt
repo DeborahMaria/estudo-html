@@ -32,13 +32,13 @@
 					<label for= "p2b">C++</label><br>
 					<input type="radio" value="Java" id:="p3c" name= "pergunta1">
 					<label for="p3c">Java</label><br>
-					<input type="radio" value="Javascript" id="p4d" name= "pergunta1">
-					<label for="p4d">Javascript</label>
+					<input type="radio" value="HTML" id="p4d" name= "pergunta1">
+					<label for="p4d">HTML</label>
 				</form>
 			</section>
 			<!--pergunta 2-->
 			<section>
-					<h2>Pergunta 2: Na <abbr title="Uniform Resource Locator">URL</abbr> https://www.google.com, o trech "google.com" é o ______________</h2>
+					<h2>Pergunta 2: Na <abbr title="Uniform Resource Locator">URL</abbr> https://www.google.com, o trechO "google.com" é o ______________</h2>
 					<form>
 						<input type="text" id="p2" name="pergunta2" placeholder="Digite sua resposta...">
 					</form>
@@ -53,30 +53,118 @@
 			</section>
 			<!--pergunta 4-->
 			<section>
-				<h2>Pergunta 4: Em que ano <abbr title ="Hypertext Markup Language">HTML</abbr> lançou sua primeira versão</h2>
+				<h2>Pergunta 4: Em que ano <abbr title ="Hypertext Markup Language">HTML</abbr> lançou sua primeira versão?</h2>
 				<form>
 					<input type="date" id="p1" name="pergunta4">
 				</form>
 			</section>
 			<!--pergunta 5-->
 			<section>
-				<h2></h2>
+				<h2>Pergunta 5: Quais dessa tecnologias são consideradas linguagem de programação?</h2>
+				<form>
+					<input type="checkbox" value="Java" id="p5a" name="pergunta5" >
+					<label for="p5a">Java</label><br>
+					<input type="checkbox" value="Javascript" id="p5b" name="pergunta5" >
+					<label for="p5b">Javascript</label><br>
+					<input type="checkbox" value="HTML" id="p5c" name="pergunta5" >
+					<label for="p5c">HTML</label><br>
+					<input type="checkbox" value="CSS" id="p5d" name="pergunta5" >
+					<label for="p5d">CSS</label>
+				</form>
 			</section>
 			<!--pergunta 6-->
 			<section>
-				<h2></h2>
+				<h2>Pergunta 6: Faça um upload de um arquivo contendo HTML</h2>
+				<form>
+					<input type="file" id="p6" name="pergunta6">
+				</form>
 			</section>
 			<!--pergunta 7-->
 			<section>
-				<h2></h2>
+				<h2>Pergunta 7: Selecione o atributo do input que define o seu tipo:</h2>
+				<form>
+					<select name="pergunta7" id="p7">
+						<option value="id">id</option>
+						<option value="type">type</option>
+						<option value="placeholder">placeholder</option>
+					</select>
+				</form>
 			</section>
 			<!--pergunta 8-->
 			<section>
-				<h2></h2>
+				<h2>Pergunta 8: Qual linguagem de programação é representada pelo logotipo abaixo?</h2>
+				<figure>	
+					<img scr="https://images.icon-icons.com/171/PNG/512/html5_23329.png" alt="logo alaranjado em formato de escudo com o numero 5 (cinco) branco no meio">
+					<figcaption> Figura 1: Logo alaranjado em formato de escudo com o numero 5 (cinco) branco no meio
+					</figcaption>
+				</figure>
+				<input type="text" id="p8" name="pergunta8" placeholder="Digite sua resposta..."  ><br>
+			</section><br>
+			<section>
+				<table border="1">
+					<thead>
+						<tr>
+							<th>Pontuação</th>
+							<th>Avaliação</th>
+						</tr>						
+					</thead>
+					<tbody>
+						<tr>
+							<td>0-02</td>
+							<td>Não Desista</td>
+						</tr>
+						<tr>
+							<td>03-04</td>
+							<td>Ainda da para melhorar</td>
+						</tr>
+						<tr>
+							<td>05-07</td>
+							<td>Bom,mas não perfeito</td>
+						</tr>
+						<tr>
+							<td>08</td>
+							<td>Para esse teste,você foi excelente</td>
+						</tr>
+						<tr>
+							<td colspan="2">Boa Sorte em sua jornada</td>
+						</tr>
+					</tbody>
+				</table>
 			</section>
-			
-				
+			<section>
+				<h2>Verifique sua resposta</h2>
+				<details>
+					<summary>Clique aqui para ver as respostas</summary>
+					<ol>
+						<li>HTML</li>
+						<li>Dominio</li>
+						<li>Abc-246@Cba</li>
+						<li>1991</li>
+						<li>Java,Javascript</li>
+						<li>O arquivo deve possuir uma extensão .html</li>
+						<li>type</li>
+						<li>HTML</li>
+					</ol>
+				</details>
+			</section>
+			<section>
+				<h2>Nos de seu Feedback</h2>
+				<fieldset>
+				<legend>Informções para contato</legend>
+				<form>
+					<label for="name">Nome:</label><br>
+					<input type="text" id="name" name="name" placeholder="Digite seu nome..."><br>
+					<label for="email">E-mail:</label><br>
+					<input type="email" id="email" name="email" placeholder="Digite seu e-mail..."><br>
+					<label for="comment">Comentario:</label><br>
+					<textarea id="comment" name="comment" rows="5" cols="25" placeholder="Digite seu comentario..."></textarea>
+				</form>
+				</fieldset>
+			</section>
 		</main>
-		<footer>rodape</footer>
+		<footer>
+			<p>&copy Quiz de Programadores</p>
+			<p>Para aprender mais <a href="www.w3schools.com">clique aqui</a></p>
+		</footer>
 	</body>
 </html>

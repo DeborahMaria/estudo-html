@@ -9,10 +9,12 @@
 
 <body>
 
-	<h1>Login</h1>
+	<h1>Faça seu login</h1>
 	
-	<h2></h2>
-	<h2></h2>
+	<h2>Login:</h2>
+		<input type="email" placeholder="Digite seu email">
+	<h2>Senha:</h2>
+		<input type="password" placeholder="Digite sua senha...">
 
 </body>
 

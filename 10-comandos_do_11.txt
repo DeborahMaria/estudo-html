@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>titulo aba</title>
+	</head>
+
+	<body>
+		<h1>titulo principal e unico</h1>
+		<h2>titulo 2</h2>
+		<h3>titulo 3</h3>
+		<h4>titulo 4</h4>
+		<h5>titulo 5</h5>
+		<h6>titulo 6</h6>
+
+		<header>cabeçalho</header>
+		<main>
+			<section>sessão
+				<h2>titulo da sessão</h2>
+					<!--formulario fica dentro do form,dentro deste form a uma prgunta de multipla escolha "radio" é o modelo, value é o valor, id "identidade da pergunta para quanto precisar fazer referencia"-->
+					<form>
+						<input type="radio" value="Python" id="p1a" name= "pergunta1">
+						<label for ="p1a">Python</label>
+					</form>
+			</section>
+		</main>
+		<footer>rodape</footer>
+		
+		
+		
+		
+	</body>
+
+</html>
